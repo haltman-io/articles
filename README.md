@@ -7,3 +7,4 @@ collection of all articles published by the group for free distribution
 
 * [06-2026-agmh-pt1.md](./database/extencil/06-2026-agmh-pt1.md); `forum.0x00sec.org`
 * [06-2026-agmh-pt2.md](./database/extencil/06-2026-agmh-pt2.md); `forum.0x00sec.org`
+* [06-2026-survival-against-github-microsoft-anatel.md](./database/extencil/06-2026-survival-against-github-microsoft-anatel.md); `haltman.io/blog`
